@@ -1,3 +1,5 @@
+# run this file from your terminal using the command < docker-compose up -d >
+# this will start the containers in detached mode
 version: '2'
 services:
   zookeeper:
